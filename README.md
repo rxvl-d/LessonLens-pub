@@ -8,15 +8,6 @@ LessonLens is a browser extension that enhances web search results with educatio
 - **Metadata Summaries**: Displays structured educational metadata for each search result including teaching objectives, educational level, target audience, and resource type
 - **Task-Adaptive Snippets**: Generates enhanced search result descriptions based on the educational context of the search query
 
-## Research Background
-
-This project is based on research studying how teachers search for and evaluate online educational resources. The research found that while teachers prefer general search engines, they need additional educational context to effectively evaluate resources. Key findings that informed the design:
-
-1. Teachers use a two-stage evaluation process combining quick metadata-based filtering followed by detailed pedagogical assessment
-2. Simple visualizations with confidence indicators increase trust compared to complex displays
-3. Feature usage varies significantly between teachers, necessitating user control
-4. Teachers reject technical features that don't align with existing workflows
-
 ## Installation
 
 The extension is available for both Firefox and Chrome browsers. Installation packages can be built from source:
